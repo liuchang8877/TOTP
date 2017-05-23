@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP
+END
+OTPGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP/OTPGenerator.h
+END
+TOTPGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP/TOTPGenerator.h
+END
+OTPGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP/OTPGenerator.m
+END
+MF_Base32Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP/MF_Base32Additions.h
+END
+TOTPGenerator.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP/TOTPGenerator.m
+END
+MF_Base32Additions.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/rjkf2-2/!svn/ver/63850/product/tsm/trunk/ios/wanxiao-comman-version/branches/wanxiao-3.2.0+/NCP/Utils/Third/currencyTOTP/MF_Base32Additions.m
+END
